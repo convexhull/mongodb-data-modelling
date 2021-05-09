@@ -1,0 +1,10 @@
+{
+    "_id": "<objectId>",
+    "name": "<string>",
+    "role": "<string>",
+    "department": {
+      "name": "<string>",
+      "id": "<objectId>"
+    },
+    "reports_to": "<string>/<string>/<string>"
+  }
